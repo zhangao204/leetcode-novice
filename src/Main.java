@@ -2,11 +2,9 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        LeetCode412 leetCode412 = new LeetCode412();
-        List<String> strings = leetCode412.fizzBuzz(20);
+//        LeetCode383 leetCode383 = new LeetCode383();
+//        LeetCode412 leetCode412 = new LeetCode412();
+//        LeetCode1480 leetCode1480 = new LeetCode1480();
 
-        for (String s : strings) {
-            System.out.println(s);
-        }
     }
 }
